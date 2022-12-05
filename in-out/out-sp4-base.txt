@@ -1,0 +1,61 @@
+Le nombre d'UE est defini
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+                    UE1  UE2  UE3 
+S1                 11.2 10.2 13.0 
+S2                  9.3  8.1 13.0 
+--
+Moyennes annuelles 10.2  9.1 13.0 
+Acquisition        UE1, UE3
+Devenir            Passage
+                    UE1  UE2  UE3 
+S1                  8.0  9.8  5.0 
+S2                  9.3  8.1 13.0 
+--
+Moyennes annuelles  8.6  8.9  9.0 
+Acquisition        Aucune
+Devenir            Redoublement
+                    UE1  UE2  UE3 
+S1                 11.2 10.2 13.0 
+S2                 17.6 16.8 15.9 
+--
+Moyennes annuelles 14.4 13.5 14.4 
+Acquisition        UE1, UE2, UE3
+Devenir            Passage

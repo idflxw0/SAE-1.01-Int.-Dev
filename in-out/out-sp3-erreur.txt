@@ -1,0 +1,21 @@
+Le nombre d'UE est defini
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Note ajoutee a l'etudiant
+Les coefficients de ce semestre sont incorrects
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Note ajoutee a l'etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Le numero de semestre est incorrect
+Etudiant inconnu
+               UE1  UE2  UE3 
+Programmation 10.0 10.2   ND 
+SGBD          13.0   ND 13.0 
+--
+Moyennes      11.2 10.2 13.0 

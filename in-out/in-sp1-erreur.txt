@@ -1,0 +1,16 @@
+epreuve 1 Programmation Projet 1 2 0
+coefficients 1
+formation 3
+coefficients 1
+formation 4
+epreuve 3 Programmation Projet 1 2 0
+epreuve 1 Programmation Projet 0 0 0
+epreuve 1 Programmation Projet -1 2 0
+epreuve 1 Programmation Projet 1 2 0
+epreuve 1 Programmation Projet 1 2 0
+epreuve 1 Programmation Projet 0 0 0
+coefficients 3
+coefficients 1
+epreuve 1 SGBD Participation 0.5 0 0.5
+coefficients 1
+exit

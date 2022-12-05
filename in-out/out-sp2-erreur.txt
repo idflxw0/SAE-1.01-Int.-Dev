@@ -1,0 +1,17 @@
+Le nombre d'UE est defini
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Epreuve ajoutee a la formation
+Etudiant inconnu
+Le numero de semestre est incorrect
+Matiere inconnue
+Epreuve inconnue
+Matiere inconnue
+Note incorrecte
+Note incorrecte
+Etudiant ajoute a la formation
+Note ajoutee a l'etudiant
+Une note est deja definie pour cet etudiant
+Il manque au moins une note pour cet etudiant
+Note ajoutee a l'etudiant
+Notes correctes

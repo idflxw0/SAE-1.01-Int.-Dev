@@ -1,0 +1,36 @@
+﻿  Source.c
+F:\BUT1\Semestre 1\Sae_C\Source.c(83,17): warning C4013: 'strcmp' undefined; assuming extern returning int
+F:\BUT1\Semestre 1\Sae_C\Source.c(128,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(137,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(145,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(157,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(158,27): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(170,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(171,27): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(181,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(194,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(243,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(261,9): warning C4013: 'strcpy' undefined; assuming extern returning int
+F:\BUT1\Semestre 1\Sae_C\Source.c(278,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(295,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(437,18): warning C4013: 'strlen' undefined; assuming extern returning int
+F:\BUT1\Semestre 1\Sae_C\Source.c(438,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(443,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(445,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(450,27): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(460,50): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(462,49): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(469,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(473,42): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(475,41): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(509,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(516,27): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(520,46): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(522,45): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(528,23): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(533,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(535,42): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(539,41): warning C4244: 'function': conversion from 'double' to 'float', possible loss of data
+F:\BUT1\Semestre 1\Sae_C\Source.c(550,27): warning C4018: '<': signed/unsigned mismatch
+F:\BUT1\Semestre 1\Sae_C\Source.c(573,15): warning C4018: '>': signed/unsigned mismatch
+  Sae_C.vcxproj -> F:\BUT1\Semestre 1\Sae_C\x64\Debug\Sae_C.exe

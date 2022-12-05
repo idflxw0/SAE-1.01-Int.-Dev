@@ -1,0 +1,16 @@
+formation 3
+epreuve 1 Programmation Projet 1 2 0
+epreuve 1 Programmation DST 1 0 2
+notes 1 Paul
+note 3 Paul Programmation Projet 12
+note 1 Paul Prog Projet 12
+note 1 Paul Programmation Proj 12
+note 1 Paul Prog Proj 12
+note 1 Paul Programmation Projet 21
+note 1 Paul Programmation Projet -1
+note 1 Paul Programmation Projet 12
+note 1 Paul Programmation Projet 12
+notes 1 Paul
+note 1 Paul Programmation DST 9
+notes 1 Paul
+exit

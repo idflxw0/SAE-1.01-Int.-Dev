@@ -1,0 +1,17 @@
+Le nombre d'UE n'est pas defini
+Le nombre d'UE n'est pas defini
+Le nombre d'UE est defini
+Le semestre ne contient aucune epreuve
+Le nombre d'UE est deja defini
+Le numero de semestre est incorrect
+Au moins un des coefficients est incorrect
+Au moins un des coefficients est incorrect
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Une meme epreuve existe deja
+Une meme epreuve existe deja
+Le numero de semestre est incorrect
+Les coefficients d'au moins une UE de ce semestre sont tous nuls
+Matiere ajoutee a la formation
+Epreuve ajoutee a la formation
+Coefficients corrects

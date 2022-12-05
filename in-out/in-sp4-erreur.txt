@@ -1,0 +1,18 @@
+formation 3
+epreuve 1 Programmation Projet 1 2 0
+epreuve 1 Programmation DST 2 3 0
+epreuve 2 Architecture Interrogation 1 0 2
+epreuve 2 Architecture DST 0 1 4
+note 1 Paul Programmation Projet 12
+note 1 Paul Programmation DST 9
+note 2 Paul Architecture Interrogation 18
+note 2 Paul Architecture DST 12
+decision Paul
+epreuve 1 SGBD Participation 0.5 0 0.5
+epreuve 1 SGBD Rapport 1.5 0 1.5
+note 1 Paul SGBD Participation 16
+decision Paul
+note 1 Paul SGBD Rapport 12
+decision Paulo
+decision Paul
+exit

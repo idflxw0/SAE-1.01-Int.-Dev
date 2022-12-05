@@ -1,0 +1,15 @@
+formation 3
+epreuve 1 Programmation Projet 1 2 0
+epreuve 1 Programmation DST 2 3 0
+note 1 Paul Programmation Projet 12
+note 1 Paul Programmation DST 9
+releve 1 Paul
+epreuve 1 SGBD Participation 0.5 0 0.5
+epreuve 1 SGBD Rapport 1.5 0 1.5
+note 1 Paul SGBD Participation 16
+releve 1 Paul
+note 1 Paul SGBD Rapport 12
+releve 3 Paul
+releve 1 Paulo
+releve 1 Paul
+exit

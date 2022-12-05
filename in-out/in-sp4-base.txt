@@ -1,0 +1,38 @@
+formation 3
+epreuve 1 Programmation Projet 1 2 0
+epreuve 1 Programmation DST 2 3 0
+epreuve 1 SGBD Participation 0.5 0 0.5
+epreuve 1 SGBD Rapport 1.5 0 1.5
+epreuve 2 Architecture Interrogation 1 0 2
+epreuve 2 Architecture DST 0 1 4
+epreuve 2 Systeme QCM 2 3 0.5
+epreuve 2 Systeme Expose 3 2 0.5
+note 1 Paul Programmation Projet 12
+note 1 Paul Programmation DST 9
+note 1 Paul SGBD Participation 16
+note 1 Paul SGBD Rapport 12
+note 2 Paul Architecture Interrogation 18
+note 2 Paul Architecture DST 12
+note 2 Paul Systeme QCM 7
+note 2 Paul Systeme Expose 8
+note 1 Paule Programmation Projet 8
+note 1 Paule Programmation DST 11
+note 1 Paule SGBD Participation 20
+note 1 Paule SGBD Rapport 0
+note 2 Paule Architecture Interrogation 18
+note 2 Paule Architecture DST 12
+note 2 Paule Systeme QCM 7
+note 2 Paule Systeme Expose 8
+note 1 Paulo Programmation Projet 12
+note 1 Paulo Programmation DST 9
+note 1 Paulo SGBD Participation 16
+note 1 Paulo SGBD Rapport 12
+note 2 Paulo Architecture Interrogation 17
+note 2 Paulo Architecture DST 15
+note 2 Paulo Systeme QCM 16
+note 2 Paulo Systeme Expose 19
+decision Paul
+decision Paule
+decision Paulo
+
+exit
